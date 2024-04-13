@@ -19,8 +19,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/MH-WebDev/blog-preview-card](https://github.com/MH-WebDev/blog-preview-card)
+- Live Site URL: [https://mh-webdev.github.io/blog-preview-card/](https://mh-webdev.github.io/blog-preview-card/)
 
 ## My process
 
